@@ -1,5 +1,5 @@
 
-# Random Password Generator
+# Calculator
 
 This project demonstrates a calculator that performs  using PyQt5 for Graphical User Interface development in Python.
 

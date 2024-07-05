@@ -21,13 +21,8 @@ Make sure you have Python installed on your system. You can download it from the
     ```sh
     git clone https://github.com/Gamixpro2424/CodSoft-Task2.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd simple-terminal-calculator
-    ```
-
 ## Usage
 
 Run the calculator script:
 ```sh
-python calculator.py
+python Calculator.py
